@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lcj24/my-app/static/css/main.2eab430d.css",
+    "main.js": "/lcj24/my-app/static/js/main.a3318b7b.js",
+    "static/js/453.ed3810f9.chunk.js": "/lcj24/my-app/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/lcj24/my-app/index.html",
+    "main.2eab430d.css.map": "/lcj24/my-app/static/css/main.2eab430d.css.map",
+    "main.a3318b7b.js.map": "/lcj24/my-app/static/js/main.a3318b7b.js.map",
+    "453.ed3810f9.chunk.js.map": "/lcj24/my-app/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2eab430d.css",
+    "static/js/main.a3318b7b.js"
+  ]
+}
